@@ -4,6 +4,9 @@ import java.util.Comparator;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
+/*
+ * Is this really the correct place for the calculation logic?
+ */
 public class Path {
 
 	/*
